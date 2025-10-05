@@ -1,0 +1,179 @@
+10-05 17:23:43.205 20058 20071 I TestRunner: started: testBalanceChipDisplaysInitialBalance(com.example.rentacar.MainActivityTest)
+10-05 17:23:43.209 20058 20071 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-05 17:23:43.210 20058 20071 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+10-05 17:23:43.213   668  2017 I system_server: AssetManager2(0xb4000074fe24bc58) locale list changing from [] to [en-US]
+10-05 17:23:43.213   668  2017 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@aea123e4 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:43.214   513   543 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:43.216  1071  1213 I ndroid.systemui: AssetManager2(0xb4000074fe26b058) locale list changing from [] to [en-US]
+10-05 17:23:43.216  1367  1367 W SplitSelectStateCtor: Missing session instanceIds
+10-05 17:23:43.216  1367  1367 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-05 17:23:43.217   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:43.218   513   513 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:43.222 20058 20058 I xample.rentacar: AssetManager2(0xb4000074fe1e8298) locale list changing from [] to [en-US]
+10-05 17:23:43.223  1768  2148 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:43.232 20058 20058 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+10-05 17:23:43.232 20058 20058 I xample.rentacar: AssetManager2(0xb4000074fe1ed6f8) locale list changing from [] to [en-US]
+10-05 17:23:43.234 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: PRE_ON_CREATE
+10-05 17:23:43.235 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-05 17:23:43.237 20058 20073 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+10-05 17:23:43.237 20058 20073 I EGL_emulation: Opening libGLESv2_emulation.so
+10-05 17:23:43.242 20058 20073 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-05 17:23:43.242 20058 20073 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-05 17:23:43.270 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+10-05 17:23:43.292 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.292 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.294 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.327   668   778 I RoleService: Granting default roles...
+10-05 17:23:43.329   668  1204 W SignedPackage: Package doesn't have required signing certificate: com.google.android.retaildemo
+10-05 17:23:43.329   668  1204 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms.supervision, role: android.app.role.SYSTEM_SUPERVISION
+10-05 17:23:43.330   668  1204 W SignedPackage: Package doesn't have required signing certificate: com.google.android.apps.work.clouddpc
+10-05 17:23:43.340   668  1204 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms, role: android.app.role.WALLET
+10-05 17:23:43.342   668  1204 I system_server: AssetManager2(0xb4000074fe22f0f8) locale list changing from [] to [en-US]
+10-05 17:23:43.342 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.342 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.343 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.343   668  1204 W SignedPackage: Cannot get ApplicationInfo for package: com.google.android.devicelockcontroller
+10-05 17:23:43.353 20058 20058 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+10-05 17:23:43.356 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+10-05 17:23:43.366 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: CREATED
+10-05 17:23:43.366 20058 20058 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.rentacar.ui.main.MainActivity@d59b24a
+10-05 17:23:43.367 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: STARTED
+10-05 17:23:43.367 20058 20058 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.rentacar.ui.main.MainActivity@d59b24a
+10-05 17:23:43.371 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:43.373 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: RESUMED
+10-05 17:23:43.373 20058 20058 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.rentacar.ui.main.MainActivity@d59b24a
+10-05 17:23:43.378 20058 20058 W HWUI    : Unknown dataspace 0
+10-05 17:23:43.503   668   690 I ActivityTaskManager: Displayed com.example.rentacar/.ui.main.MainActivity for user 0: +289ms
+10-05 17:23:43.537  1367  1367 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:23:43.545   668   795 I ImeTracker: com.example.rentacar:a462866e: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:23:43.546 20058 20058 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:23:43.546  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:23:43.546 20058 20058 I ImeTracker: com.example.rentacar:a462866e: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:23:43.547   668  1155 I ImeTracker: system_server:1c99ea32: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:23:43.547  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:23:43.547  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:23:43.547   668   693 I ImeTracker: system_server:1c99ea32: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:23:43.548  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:23:43.551  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-05 17:23:43.555  1367  1367 D BaseDepthController: setSurface:
+10-05 17:23:43.555  1367  1367 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-05 17:23:43.555  1367  1367 D BaseDepthController: 	mBaseSurface: null
+10-05 17:23:43.555  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 23
+10-05 17:23:43.556  1367  1367 D StatsLog: LAUNCHER_ONSTOP
+10-05 17:23:43.556  1367  2686 D GmsPlayProvider: Forcefully shut down the binder channel
+10-05 17:23:43.556  1367  1367 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-05 17:23:43.566 20058 20062 I xample.rentacar: Compiler allocated 5111KB to compile void android.view.ViewRootImpl.performTraversals()
+10-05 17:23:43.787   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:43.789  1071  1213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@fe6d747
+10-05 17:23:43.878  8176  8277 I FontLog : (REDACTED) Received query %s, URI %s
+10-05 17:23:43.878  8176  8277 I FontLog : (REDACTED) Query [%s] resolved to %s
+10-05 17:23:43.879  8176  8277 I FontLog : (REDACTED) Fetch %s end status %s
+10-05 17:23:43.881  8176  8277 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+10-05 17:23:43.884  8176  8277 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+10-05 17:23:43.990 20058 20071 W FileTestStorage: Output properties is not supported.
+10-05 17:23:43.990 20058 20071 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+10-05 17:23:43.991 20058 20071 D CompatChangeReporter: Compat change id reported: 247079863; UID 10225; state: ENABLED
+10-05 17:23:43.992 20058 20071 D EventInjectionStrategy: Creating injection strategy with input manager.
+10-05 17:23:43.992 20058 20071 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+10-05 17:23:43.992 20058 20071 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+10-05 17:23:43.993 20058 20071 I xample.rentacar: hiddenapi: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+10-05 17:23:43.996 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+10-05 17:23:43.996 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+10-05 17:23:43.996 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+10-05 17:23:43.997 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+10-05 17:23:43.997 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+10-05 17:23:43.997 20058 20058 I xample.rentacar: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+10-05 17:23:43.998 20058 20058 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230807/com.example.rentacar:id/balance_chip>
+10-05 17:23:43.999 20058 20058 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "500"}' assertion on view view.getId() is <2131230807/com.example.rentacar:id/balance_chip>
+10-05 17:23:44.002   668  1155 I system_server: AssetManager2(0xb4000074fe22edd8) locale list changing from [] to [en-US]
+10-05 17:23:44.002   668  1155 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@b055fc83 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:44.006  1071  1213 I ndroid.systemui: AssetManager2(0xb4000074fe24cf18) locale list changing from [] to [en-US]
+10-05 17:23:44.007   668   693 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@b055fc83 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:44.008 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: PAUSED
+10-05 17:23:44.008 20058 20058 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.rentacar.ui.main.MainActivity@d59b24a
+10-05 17:23:44.013   454   454 D Zygote  : Forked child process 20091
+10-05 17:23:44.014  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:44.018   513   513 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:44.020   513   544 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:44.021   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:44.029  1071  1138 I ndroid.systemui: AssetManager2(0xb4000074fe265f18) locale list changing from [] to [en-US]
+10-05 17:23:44.030  1071  1138 I ndroid.systemui: AssetManager2(0xb4000074fe210c98) locale list changing from [] to [en-US]
+10-05 17:23:44.030 20091 20091 I e.rentacar.test: Late-enabling -Xcheck:jni
+10-05 17:23:44.035   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 954 CompositionType fallback from 3 to 1
+10-05 17:23:44.044 20091 20091 I e.rentacar.test: Using CollectorTypeCMC GC.
+10-05 17:23:44.045  1344  1362 I adbd    : jdwp connection from 20091
+10-05 17:23:44.043  1344  1344 W adbd    : type=1400 audit(0.0:4670): avc:  denied  { getattr } for  path="/sys/fs/cgroup/apps/uid_10226/pid_20091/cgroup.freeze" dev="cgroup2" ino=14909 scontext=u:r:adbd:s0 tcontext=u:object_r:cgroup_v2:s0 tclass=file permissive=0
+10-05 17:23:44.050 20091 20091 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+10-05 17:23:44.061 20091 20091 D CompatChangeReporter: Compat change id reported: 242716250; UID 10226; state: ENABLED
+10-05 17:23:44.068 20091 20091 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-05 17:23:44.071 20091 20091 D nativeloader: Configuring clns-9 for other apk /system/framework/android.test.mock.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~HEc0vwoFvcvAMjMPL6NFhA==/com.example.rentacar.test-THq-JJjk01lGWpIcOS8iVQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.rentacar.test
+10-05 17:23:44.071 20091 20091 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-05 17:23:44.073 20091 20091 D nativeloader: Configuring clns-10 for other apk /system/framework/android.test.runner.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~HEc0vwoFvcvAMjMPL6NFhA==/com.example.rentacar.test-THq-JJjk01lGWpIcOS8iVQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.rentacar.test
+10-05 17:23:44.091 20091 20091 D nativeloader: Configuring clns-11 for other apk /data/app/~~HEc0vwoFvcvAMjMPL6NFhA==/com.example.rentacar.test-THq-JJjk01lGWpIcOS8iVQ==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~HEc0vwoFvcvAMjMPL6NFhA==/com.example.rentacar.test-THq-JJjk01lGWpIcOS8iVQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.rentacar.test
+10-05 17:23:44.093 20091 20091 I e.rentacar.test: AssetManager2(0xb4000074fe1ee9b8) locale list changing from [] to [en-US]
+10-05 17:23:44.095 20091 20091 V GraphicsEnvironment: Currently set values for:
+10-05 17:23:44.095 20091 20091 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-05 17:23:44.096 20091 20091 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-05 17:23:44.096 20091 20091 V GraphicsEnvironment: com.example.rentacar.test is not listed in per-application setting
+10-05 17:23:44.096 20091 20091 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+10-05 17:23:44.096 20091 20091 V GraphicsEnvironment: com.example.rentacar.test is not listed in ANGLE allowlist or settings, returning default
+10-05 17:23:44.096 20091 20091 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-05 17:23:44.103 20091 20091 I e.rentacar.test: AssetManager2(0xb4000074fe1e6358) locale list changing from [] to [en-US]
+10-05 17:23:44.108 20091 20091 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+10-05 17:23:44.114 20091 20091 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+10-05 17:23:44.129 20091 20105 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+10-05 17:23:44.129 20091 20105 I EGL_emulation: Opening libGLESv2_emulation.so
+10-05 17:23:44.132 20091 20105 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-05 17:23:44.132 20091 20105 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-05 17:23:44.136 20091 20091 W HWUI    : Unknown dataspace 0
+10-05 17:23:44.142  1251  1511 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+10-05 17:23:44.154   513   606 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:44.158   513   543 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10226 pid=0
+10-05 17:23:44.158   513   543 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10226 => denied (71 us)
+10-05 17:23:44.158   513   543 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10226 pid=0
+10-05 17:23:44.158   513   543 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10226 => denied (170 us)
+10-05 17:23:44.158   513   543 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10226 pid=0
+10-05 17:23:44.158   513   543 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10226 => denied (39 us)
+10-05 17:23:44.173   668   818 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10226 pid=0
+10-05 17:23:44.173   668   818 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10226 => denied (53 us)
+10-05 17:23:44.173   668   818 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10226 pid=0
+10-05 17:23:44.173   668   818 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10226 => denied (7 us)
+10-05 17:23:44.173   668   818 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10226 pid=0
+10-05 17:23:44.173   668   818 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10226 => denied (5 us)
+10-05 17:23:44.176  1367  1367 D ViewRootImpl: Skipping stats log for color mode
+10-05 17:23:44.177  1367  1367 D StatsLog: LAUNCHER_ONRESUME
+10-05 17:23:44.178  1367  1400 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=
+10-05 17:23:44.180  1768  2148 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:44.181  1738  1847 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-05 17:23:44.181  1738  1847 I AiAiEcho: EchoTargets:
+10-05 17:23:44.181  1738  1847 I AiAiEcho: Filtered by AiAi flag check:
+10-05 17:23:44.181  1738  1847 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-05 17:23:44.181  1738  1847 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-05 17:23:44.181  1738  1847 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-05 17:23:44.185  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-05 17:23:44.185  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 23
+10-05 17:23:44.188  1367  1367 D BaseDepthController: setSurface:
+10-05 17:23:44.188  1367  1367 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-05 17:23:44.188  1367  1367 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x51505e8
+10-05 17:23:44.193  1367  1367 I NotificationListener: Handling notification state refresh for android#0
+10-05 17:23:44.193  1367  1367 D SsBaseTemplateCard: No text view can be set up
+10-05 17:23:44.193  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:23:44.193  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:23:44.193  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:23:44.193  1367  1367 I SsBaseTemplateCard: Secondary card pane is null
+10-05 17:23:44.198 20058 20058 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:23:44.201  1367  1367 D b/311077782: LauncherAnimationRunner.setAnimation
+10-05 17:23:44.206   668   795 I ImeTracker: com.google.android.apps.nexuslauncher:cccd880a: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:23:44.207  1367  1367 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:23:44.207  1367  1367 I ImeTracker: com.google.android.apps.nexuslauncher:cccd880a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:23:44.209  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:23:44.209 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: STOPPED
+10-05 17:23:44.209 20058 20058 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.rentacar.ui.main.MainActivity@d59b24a
+10-05 17:23:44.209  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:23:44.209   668  2126 I ImeTracker: system_server:3319575c: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:23:44.209  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:23:44.209  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:23:44.209   668   693 I ImeTracker: system_server:3319575c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:23:44.210 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d59b24a in: DESTROYED
+10-05 17:23:44.210 20058 20058 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-05 17:23:44.211 20058 20071 I TestRunner: finished: testBalanceChipDisplaysInitialBalance(com.example.rentacar.MainActivityTest)

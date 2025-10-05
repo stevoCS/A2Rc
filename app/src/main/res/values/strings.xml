@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Rental App</string>
+    
+    <!-- Main Activity -->
+    <string name="balance_label">Balance: %d credits</string>
+    <string name="search_hint">Search cars by name or model</string>
+    <string name="sort_by_rating">Sort by Rating (High to Low)</string>
+    <string name="sort_by_year">Sort by Year (Newest to Oldest)</string>
+    <string name="sort_by_cost">Sort by Cost (Low to High)</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="rent_button">Rent</string>
+    <string name="next_button">Next</string>
+    <string name="favorite_button">Add to Favorites</string>
+    <string name="unfavorite_button">Remove from Favorites</string>
+    
+    <!-- Detail Activity -->
+    <string name="car_details">Car Details</string>
+    <string name="rental_days">Rental Days</string>
+    <string name="total_cost">Total Cost: %d credits</string>
+    <string name="save_button">Rent</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="select_days">Select rental days (1-7)</string>
+    
+    <!-- Messages -->
+    <string name="rental_success">Booked %s for %d days, -%d credits</string>
+    <string name="rental_cancelled">Booking cancelled</string>
+    <string name="insufficient_balance">Insufficient balance</string>
+    <string name="rental_limit_exceeded">Single rental limit: Cannot exceed 400 credits</string>
+    <string name="car_already_rented">This car is already rented</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    
+    <!-- Car Information -->
+    <string name="year_label">Year: %d</string>
+    <string name="km_label">Mileage: %d km</string>
+    <string name="daily_cost_label">Daily Cost: %d credits</string>
+    <string name="rating_label">Rating: %.1f/5.0</string>
+    
+    <!-- Theme -->
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <!-- Empty State -->
+    <string name="empty_state">No cars available</string>
+</resources>

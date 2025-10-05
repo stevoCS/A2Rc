@@ -1,0 +1,3 @@
+com.example.rentacar.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

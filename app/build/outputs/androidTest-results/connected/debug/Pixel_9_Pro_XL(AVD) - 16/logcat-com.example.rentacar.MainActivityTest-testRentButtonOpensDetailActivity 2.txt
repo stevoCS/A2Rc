@@ -1,0 +1,117 @@
+10-05 17:23:46.944 20058 20071 I TestRunner: started: testRentButtonOpensDetailActivity(com.example.rentacar.MainActivityTest)
+10-05 17:23:46.949 20058 20071 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-05 17:23:46.951   668  2616 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@aea123e4 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:46.955   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:46.955  1367  1367 W SplitSelectStateCtor: Missing session instanceIds
+10-05 17:23:46.955  1367  1367 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-05 17:23:46.958   513   544 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:46.960 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: PRE_ON_CREATE
+10-05 17:23:46.960 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-05 17:23:46.961  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:46.968   513   513 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:46.971 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: CREATED
+10-05 17:23:46.971 20058 20058 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.rentacar.ui.main.MainActivity@d30b115
+10-05 17:23:46.972 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: STARTED
+10-05 17:23:46.972 20058 20058 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.rentacar.ui.main.MainActivity@d30b115
+10-05 17:23:46.973 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: RESUMED
+10-05 17:23:46.973 20058 20058 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.rentacar.ui.main.MainActivity@d30b115
+10-05 17:23:46.995   668   690 I ActivityTaskManager: Displayed com.example.rentacar/.ui.main.MainActivity for user 0: +43ms
+10-05 17:23:47.000   668   683 W System  : A resource failed to call release.
+10-05 17:23:47.000   668   683 W System  : A resource failed to call release.
+10-05 17:23:47.000   668   683 W System  : A resource failed to call release.
+10-05 17:23:47.023   668   795 I ImeTracker: com.example.rentacar:809d1408: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:23:47.023 20058 20058 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:23:47.023 20058 20058 I ImeTracker: com.example.rentacar:809d1408: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:23:47.024  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:23:47.024   668   818 I ImeTracker: system_server:e39b676c: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:23:47.024  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:23:47.025  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:23:47.025   668   693 I ImeTracker: system_server:e39b676c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:23:47.025  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:23:47.271   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:47.271  1367  1367 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:23:47.273  1071  1213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@cf4f00a
+10-05 17:23:47.285  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-05 17:23:47.287  1367  1367 D BaseDepthController: setSurface:
+10-05 17:23:47.287  1367  1367 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-05 17:23:47.287  1367  1367 D BaseDepthController: 	mBaseSurface: null
+10-05 17:23:47.287  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 23
+10-05 17:23:47.288  1367  1367 D StatsLog: LAUNCHER_ONSTOP
+10-05 17:23:47.288  1367  2686 D GmsPlayProvider: Forcefully shut down the binder channel
+10-05 17:23:47.288  1367  1367 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-05 17:23:47.346  7502  7502 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START xflg=0x4 pkg=com.google.android.gms }
+10-05 17:23:47.471 20058 20058 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231094/com.example.rentacar:id/rent_button>
+10-05 17:23:47.472 20058 20058 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Rent"}' assertion on view view.getId() is <2131231094/com.example.rentacar:id/rent_button>
+10-05 17:23:47.473 20058 20058 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231094/com.example.rentacar:id/rent_button>
+10-05 17:23:47.521   668  1883 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+10-05 17:23:47.522   668  2127 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@aea123e4 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:47.535   513   513 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:47.537 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: PAUSED
+10-05 17:23:47.537 20058 20058 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.rentacar.ui.main.MainActivity@d30b115
+10-05 17:23:47.537   513  1418 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:47.541 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: PRE_ON_CREATE
+10-05 17:23:47.541 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.543 20058 20058 W HWUI    : Image decoding logging dropped!
+10-05 17:23:47.546   498   630 D AudioFlinger: mixer(0xb4000076ca142770) throttle end: throttle time(34)
+10-05 17:23:47.551 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: CREATED
+10-05 17:23:47.551 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.551 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: STARTED
+10-05 17:23:47.551 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.551 20058 20058 W WindowOnBackDispatcher: OnBackInvokedCallback is not enabled for the application.
+10-05 17:23:47.551 20058 20058 W WindowOnBackDispatcher: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-05 17:23:47.553 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: RESUMED
+10-05 17:23:47.553 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.570   668   690 I ActivityTaskManager: Displayed com.example.rentacar/.ui.detail.DetailActivity for user 0: +48ms
+10-05 17:23:47.674   668   795 I ImeTracker: com.example.rentacar:3acb7bfe: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:23:47.675 20058 20058 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:23:47.675 20058 20058 I ImeTracker: com.example.rentacar:3acb7bfe: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:23:47.675  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:23:47.675   668  2017 I ImeTracker: system_server:a41dbbac: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:23:47.676   668   693 I ImeTracker: system_server:a41dbbac: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:23:47.676  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:23:47.676  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:23:47.677  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:23:47.824 20058 20058 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Car Details"
+10-05 17:23:47.826   668  2017 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@b055fc83 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:23:47.827   513  1418 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:47.829   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:47.829 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: PAUSED
+10-05 17:23:47.829 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.832 20091 20105 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+10-05 17:23:47.832 20091 20105 I EGL_emulation: Opening libGLESv2_emulation.so
+10-05 17:23:47.837 20091 20105 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-05 17:23:47.837 20091 20105 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-05 17:23:47.840  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:47.848 20058 20058 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:23:47.848  1071  1138 I ndroid.systemui: AssetManager2(0xb4000074fe26c318) locale list changing from [] to [en-US]
+10-05 17:23:47.848  1071  1138 I ndroid.systemui: AssetManager2(0xb4000074fe221638) locale list changing from [] to [en-US]
+10-05 17:23:47.852   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 974 CompositionType fallback from 3 to 1
+10-05 17:23:47.854 20058 20073 D HWUI    : endAllActiveAnimators on 0xb40000746e290350 (RippleDrawable) with handle 0xb40000734e238e50
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.863  1367  1381 W System  : A resource failed to call release.
+10-05 17:23:47.865   668   690 I ActivityTaskManager: Displayed com.example.rentacar.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +38ms
+10-05 17:23:47.872 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.detail.DetailActivity@de5f5b0 in: RESUMED
+10-05 17:23:47.873 20058 20058 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.rentacar/.ui.main.MainActivity }, activity.getIntent()=Intent { xflg=0x4 cmp=com.example.rentacar/.ui.detail.DetailActivity (has extras) }, activity=com.example.rentacar.ui.detail.DetailActivity@de5f5b0
+10-05 17:23:47.874   513   544 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:23:47.878  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:23:47.885   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 977 CompositionType fallback from 3 to 1
+10-05 17:23:47.890   668   795 I ImeTracker: com.example.rentacar:91c22299: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
+10-05 17:23:47.890 20058 20058 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:23:47.890 20058 20058 I ImeTracker: com.example.rentacar:91c22299: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:23:47.891  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:23:47.891  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:23:47.891  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:23:47.892  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:23:48.170   576  5547 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:23:48.171  1071  1213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@f512c3c
+10-05 17:23:48.388 20091 20091 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:23:48.389 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: STOPPED
+10-05 17:23:48.389 20058 20058 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.rentacar.ui.main.MainActivity@d30b115
+10-05 17:23:48.390 20058 20058 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@d30b115 in: DESTROYED
+10-05 17:23:48.390 20058 20058 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-05 17:23:48.390 20058 20058 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@dfdea31
+10-05 17:23:48.390 20058 20071 I TestRunner: finished: testRentButtonOpensDetailActivity(com.example.rentacar.MainActivityTest)

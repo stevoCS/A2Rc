@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-mergeDebugResources-36:/layout/activity_detail.xml",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.rentacar.app-mergeDebugResources-36:/layout/activity_detail.xml",
+        "source": "com.example.rentacar.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.rentacar.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.rentacar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-mergeDebugResources-36:/layout/item_favorite.xml",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/item_favorite.xml"
+    }
+]

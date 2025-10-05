@@ -1,0 +1,247 @@
+10-05 17:41:38.277 20460 20475 I TestRunner: started: testSearchFunctionality(com.example.rentacar.MainActivityTest)
+10-05 17:41:38.278 20460 20475 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-05 17:41:38.279   668  1883 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@b20ad522 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:41:38.285   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 990 CompositionType fallback from 2 to 1
+10-05 17:41:38.285   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 991 CompositionType fallback from 2 to 1
+10-05 17:41:38.289  1367  1367 D RecentsView: onTaskRemoved: 165, not handling task stack changes
+10-05 17:41:38.289  1367  1367 D RecentsView: onTaskRemoved: 165, not handling task stack changes
+10-05 17:41:38.289   513   543 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:41:38.290  1367  1367 W SplitSelectStateCtor: Missing session instanceIds
+10-05 17:41:38.290  1367  1367 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-05 17:41:38.295 20460 20460 I xample.rentacar: AssetManager2(0xb4000074fe1fae98) locale list changing from [] to [en-US]
+10-05 17:41:38.296  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:41:38.296 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: PRE_ON_CREATE
+10-05 17:41:38.296 20460 20460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-05 17:41:38.300 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.300 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.300 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.311 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.312 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.313 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.317 20492 20492 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:41:38.320 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: CREATED
+10-05 17:41:38.320 20460 20460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.rentacar.ui.main.MainActivity@bd0647d
+10-05 17:41:38.321 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: STARTED
+10-05 17:41:38.321 20460 20460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.rentacar.ui.main.MainActivity@bd0647d
+10-05 17:41:38.324 20460 20460 W HWUI    : Image decoding logging dropped!
+10-05 17:41:38.325 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: RESUMED
+10-05 17:41:38.325 20460 20460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.rentacar.ui.main.MainActivity@bd0647d
+10-05 17:41:38.345   668   690 I ActivityTaskManager: Displayed com.example.rentacar/.ui.main.MainActivity for user 0: +65ms
+10-05 17:41:38.359 20492 20492 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@3ef53c7
+10-05 17:41:38.360 20492 20492 D ViewRootImpl: Skipping stats log for color mode
+10-05 17:41:38.377  1367  1367 D RecentsView: onTaskRemoved: 166, not handling task stack changes
+10-05 17:41:38.377   668   795 I ImeTracker: com.example.rentacar:a76b53e2: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:41:38.377  1367  1367 D RecentsView: onTaskRemoved: 166, not handling task stack changes
+10-05 17:41:38.378 20460 20460 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:41:38.378 20460 20460 I ImeTracker: com.example.rentacar:a76b53e2: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:41:38.378  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:41:38.379   668  1193 I ImeTracker: system_server:e0c0e79a: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:41:38.379  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:41:38.379   668   693 I ImeTracker: system_server:e0c0e79a: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:41:38.379  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:41:38.379  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:41:38.430 20492 20497 I e.rentacar.test: Compiler allocated 5111KB to compile void android.view.ViewRootImpl.performTraversals()
+10-05 17:41:38.554   576  3819 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:41:38.554  1071  1213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@983389e
+10-05 17:41:38.555   576  3819 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:41:38.624  1367  1367 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:41:38.626  1367  1367 D BaseDepthController: setSurface:
+10-05 17:41:38.626  1367  1367 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-05 17:41:38.626  1367  1367 D BaseDepthController: 	mBaseSurface: null
+10-05 17:41:38.626  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-05 17:41:38.626  1367  1367 D StatsLog: LAUNCHER_ONSTOP
+10-05 17:41:38.626  1367  2686 D GmsPlayProvider: Forcefully shut down the binder channel
+10-05 17:41:38.626  1367  1367 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-05 17:41:38.626  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-05 17:41:38.626  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-05 17:41:38.635  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-05 17:41:38.640  1071  1213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@f66984f
+10-05 17:41:38.694   668   683 W System  : A resource failed to call release.
+10-05 17:41:38.694   668   683 W System  : A resource failed to call release.
+10-05 17:41:38.694   668   683 W System  : A resource failed to call release.
+10-05 17:41:38.854 20460 20475 I xample.rentacar: hiddenapi: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/action/Tap; (domain=app) using reflection: allowed
+10-05 17:41:38.855 20460 20460 I ViewInteraction: Performing 'type text(BMW)' action on view view.getId() is <2131231119/com.example.rentacar:id/search_edit_text>
+10-05 17:41:38.906 20460 20460 I AutofillManager: showAutofillDialog() return false due to improve fill dialog
+10-05 17:41:38.906 20460 20460 I ImeTracker: com.example.rentacar:f19ad46: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+10-05 17:41:38.907  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:41:38.907  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:41:38.908 20460 20460 D InsetsController: show(ime(), fromIme=false)
+10-05 17:41:38.908  7643  7643 I DeviceIntelligenceExtension: DeviceIntelligenceExtension.getInlineSuggestionsRequest():281 Inline suggestions disabled in stylus mode or vertical PK/Voice toolbar
+10-05 17:41:38.908  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=1, inputTypeString=Normal[], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=6, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231119, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=non-empty, hintLocales=[]}}, false)
+10-05 17:41:38.916 20460 20460 I AssistStructure: Flattened final assist data: 3952 bytes, containing 1 windows, 23 views
+10-05 17:41:38.918  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:41:38.920  7643  7643 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 2
+10-05 17:41:38.921  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1392 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.rentacar, inputType=1, inputTypeString=Normal[], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=6, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231119, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=10, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}}, false)
+10-05 17:41:38.921  8176  8176 E AbstractGmsTracer: Traced class shouldn't be obfuscated: aoto [CONTEXT service_id=259 ]
+10-05 17:41:38.922  7643  7643 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():161 systemKeyboardHeightRatio:1.000000.
+10-05 17:41:38.922  7643  7643 I AndroidIME: InputBundleManager.loadActiveInputBundleId():483 loadActiveInputBundleId: en-US, ime_english_united_states
+10-05 17:41:38.922  7643  7643 I AndroidIME: AbstractIme.onActivate():90 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=com.example.rentacar, inputType=1, inputTypeString=Normal[], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=6, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131231119, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=10, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=non-empty, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+10-05 17:41:38.923  7643  7643 I InputBundle: InputBundle.consumeEvent():949 Skip consuming an event as keyboard status is 0
+10-05 17:41:38.923  7643  7643 I Delight5Facilitator: Delight5Facilitator.initializeForIme():729 initializeForIme() : Locale = [en_US], layout = qwerty
+10-05 17:41:38.924  7643  7643 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1256 inline flag updated to:false
+10-05 17:41:38.924  7643  7643 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1256 inline flag updated to:false
+10-05 17:41:38.925  7502  7502 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+10-05 17:41:38.925  7502  7502 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+10-05 17:41:38.926  7643  7643 I InputBundle: InputBundle.consumeEvent():949 Skip consuming an event as keyboard status is 0
+10-05 17:41:38.927  7643  7643 I InputBundle: InputBundle.consumeEvent():949 Skip consuming an event as keyboard status is 0
+10-05 17:41:38.927  7643  7643 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():562 activateKeyboard(): type=accessory, status=0, imeDef=kyj{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={enable_number_row=false, device=phone}, className=com.google.android.libraries.inputmethod.ime.experiment.ExperimentImeWrapper, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, primeKeyboardType=SOFT, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=kyb{#0x7f0b021c=TypedValue{t=0x3/d=0x0 "writing_helper_enable_by_word_revert=false"}, #0x7f0b0222=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}, #0x7f0b0223=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.edittracker.EditTrackingImeWrapper"}, #0x7f0b0224=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=lac@3aa2fe4, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, secondaryIme=null, keyboardGroupDef=kzl@c1f31, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+10-05 17:41:38.928  7643  7643 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory, imeId=ime_english_united_states, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.532579_SCREEN_SHORTEST_WIDTH=448_SCREEN_SHORTEST_WIDTH_NO_SCALE=448_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff495d92-82b625f90d810779661adb8ce93b5ac5_silkpopup_unify_function_key_color=true
+10-05 17:41:38.928  7643  7643 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():212 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@1f8fd39
+10-05 17:41:38.928  7643  7643 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():589 doActivateKeyboard(): accessory
+10-05 17:41:38.928  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.930  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.930  7643  7643 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+10-05 17:41:38.931  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.931  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.931  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.931  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.931  7643  7643 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory_candidates_consumer, imeId=ime_english_united_states, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.532579_SCREEN_SHORTEST_WIDTH=448_SCREEN_SHORTEST_WIDTH_NO_SCALE=448_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff495d92-82b625f90d810779661adb8ce93b5ac5_silkpopup_unify_function_key_color=true
+10-05 17:41:38.932  7643  7643 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+10-05 17:41:38.932  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.532579_SCREEN_SHORTEST_WIDTH=448_SCREEN_SHORTEST_WIDTH_NO_SCALE=448_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff495d92-82b625f90d810779661adb8ce93b5ac5_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=480, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, kkl@c9a296a, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.932  7643  7643 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.532579_SCREEN_SHORTEST_WIDTH=448_SCREEN_SHORTEST_WIDTH_NO_SCALE=448_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff495d92-82b625f90d810779661adb8ce93b5ac5_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=480, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, kkl@c9a296a, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h920dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 159 - 1344, 2920) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.4 s.208 fontWeightAdjustment=0}
+10-05 17:41:38.933  7643  7643 I AndroidIME: InputBundleManager.startInput():361 startInput() with kzp[keyboardType=accessory, payload=null]
+10-05 17:41:38.933  7643  7643 I GlobeKeyExtension: GlobeKeyExtension.onActivate():70
+10-05 17:41:38.938  8176  8176 E AbstractGmsTracer: Traced class shouldn't be obfuscated: aoto [CONTEXT service_id=259 ]
+10-05 17:41:38.939  8176  8176 E AbstractGmsTracer: Traced class shouldn't be obfuscated: aoto [CONTEXT service_id=259 ]
+10-05 17:41:38.940  4266  4266 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:277248894
+10-05 17:41:38.942  7643  7643 I CrowdsourceExtension: CrowdsourceExtension.checkIfDefaultBrowserIsAllowed():109 Failed to get default browser. The default browser may be deactivated.
+10-05 17:41:38.942  7643  7643 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():100 cancelShutdown()
+10-05 17:41:38.942  7643  7643 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():112 syncLanguagePacks()
+10-05 17:41:38.943  7643  7643 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1023 onKeyboardActivated() [UD]
+10-05 17:41:38.944  7643  7643 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():322 Accessory input mode started: STYLUS
+10-05 17:41:38.944  7643  7643 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+10-05 17:41:38.944  7643  7643 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():524 Show companion widget
+10-05 17:41:38.948  7643  7643 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+10-05 17:41:38.948  7643  7643 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():194 update available area Rect(24, 183 - 1320, 2914)
+10-05 17:41:38.949  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10159, ACTIVATE_SUPPLEMENTARY_KEYBOARD, data=accessory_candidates_consumer}
+10-05 17:41:38.950  7643  7643 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 321 height for app when ime window height:2761, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2308
+10-05 17:41:38.950  7643  7643 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 321 height for app when ime window height:2761, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2308
+10-05 17:41:38.950  7643  7643 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():801 interface koa is not activate
+10-05 17:41:38.951  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:41:38.951  7643  7643 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():469 No private IME option set to start voice input.
+10-05 17:41:38.956  7643  7643 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():166
+10-05 17:41:38.956  7502  7502 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+10-05 17:41:38.956  7502  7502 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+10-05 17:41:38.959  7643  7643 I WindowMetricsNotification: WindowMetricsNotification.notify():159 mub[bounds=Rect(0, 159 - 1344, 2992), insets=Rect(0, 0 - 0, 72), densityDpi=480, smallestScreenWidthDp=448, displayWidth=1344, displayHeight=2992, xdpi=480.0, ydpi=480.0, isTrustable=true, displayId=0]; DisplayMetrics{density=3.0, width=1344, height=2992, scaledDensity=3.0, xdpi=480.0, ydpi=480.0}
+10-05 17:41:38.959  7643  7643 W View    : requestLayout() improperly called by android.widget.FrameLayout{ab2df3 V........ ......I. 0,0-39,204 #7f0b0186 app:id/0_resource_name_obfuscated} during layout: running second layout pass
+10-05 17:41:38.963  7643  9528 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():161 maybeScheduleAutoPackDownloadForFallback()
+10-05 17:41:38.964  7643  9528 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():198 maybeScheduleAutoPackDownload() for language tag en-US
+10-05 17:41:38.974  7643  7643 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+10-05 17:41:38.974  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10188, SET_KEYBOARD_LAYOUT, data=# qsn@e6cdb659}
+10-05 17:41:38.975  7643  7643 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+10-05 17:41:38.977  7643  7866 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():521 setKeyboardLayout()
+10-05 17:41:38.990 20460 20524 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.rentacar
+10-05 17:41:39.127  7643  7643 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():154 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-05 17:41:39.134 20460 20460 D UiControllerImpl: Injecting string: "BMW"
+10-05 17:41:39.137  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.137  7643  7643 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 0
+10-05 17:41:39.154  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=30, B, data=B}
+10-05 17:41:39.154  7643  7643 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():521 setKeyboardLayout()
+10-05 17:41:39.157  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10188, SET_KEYBOARD_LAYOUT, data=# qsn@d7525947}
+10-05 17:41:39.157  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10067, UPDATE_DYNAMIC_KEYS, data=[]}
+10-05 17:41:39.162  7643  7643 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
+10-05 17:41:39.162  7643  7643 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+10-05 17:41:39.162  7643  7643 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+10-05 17:41:39.162  7643  7643 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
+10-05 17:41:39.162  7643  8167 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@ac214a5 is created
+10-05 17:41:39.174  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=30, B, data=B}
+10-05 17:41:39.176  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.177  7643  7866 I native  : I0000 00:00:1759646499.177065    7866 input-context-store.cc:268] Ignoring stale client request for FetchSuggestions
+10-05 17:41:39.177  7643  7643 W InputContextProxy: InputContextProxy.applyClientDiffInternal():957 Ignore [FetchSuggestions] diff due to stale request: 727<730, inputStateId=430, lastInputStateId=430
+10-05 17:41:39.188  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.188  7643  7643 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 0
+10-05 17:41:39.203  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=41, M, data=M}
+10-05 17:41:39.204  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10067, UPDATE_DYNAMIC_KEYS, data=[]}
+10-05 17:41:39.205 20460 20460 I ImeTracker: com.example.rentacar:f19ad46: onShown
+10-05 17:41:39.221  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=41, M, data=M}
+10-05 17:41:39.223  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.239  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.239  7643  7643 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 0
+10-05 17:41:39.257  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=51, W, data=W}
+10-05 17:41:39.258  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10067, UPDATE_DYNAMIC_KEYS, data=[]}
+10-05 17:41:39.271  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=DECODE, keyCode=51, W, data=W}
+10-05 17:41:39.272  7643  7643 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=59, SHIFT_LEFT, data=null}
+10-05 17:41:39.287 20460 20460 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131231119/com.example.rentacar:id/search_edit_text>
+10-05 17:41:39.288 20460 20460 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@10b4d71]
+10-05 17:41:39.288 20460 20460 I ImeTracker: com.example.rentacar:4de553e8: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+10-05 17:41:39.288 20460 20460 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:41:39.288 20460 20460 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@f510a15
+10-05 17:41:39.504   668  2017 I ImeTracker: system_server:67c1bcf4: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:41:39.506  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1524
+10-05 17:41:39.506  7643  7643 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():104
+10-05 17:41:39.507  7643  7643 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():122 shutdown()
+10-05 17:41:39.507  7643  7643 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+10-05 17:41:39.507  7643  7643 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+10-05 17:41:39.507  7643  7643 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():154 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-05 17:41:39.508  7643  7643 I InputBundle: InputBundle.consumeEvent():949 Skip consuming an event as keyboard status is 0
+10-05 17:41:39.508  7643  7643 I AndroidIME: AbstractIme.onDeactivate():203 LatinIme.onDeactivate()
+10-05 17:41:39.508  7643  7871 W ModuleManager: ModuleManager.loadModule():547 Module mly is not available
+10-05 17:41:39.509  7643  7643 I ImeTracker: system_server:67c1bcf4: onHidden
+10-05 17:41:39.536   668   694 I ImeTracker: system_server:68970aed: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-05 17:41:39.537 20460 20460 I ImeTracker: system_server:68970aed: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-05 17:41:39.589 20460 20460 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@10b4d71]
+10-05 17:41:39.590 20460 20460 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "BMW"}' assertion on view view.getId() is <2131231119/com.example.rentacar:id/search_edit_text>
+10-05 17:41:39.592   668  1885 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@b3bfadc1 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-05 17:41:39.593   513  1418 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:41:39.595   576  3819 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:41:39.595   576  3819 W IPCThreadState: Sending oneway calls to frozen process.
+10-05 17:41:39.595 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: PAUSED
+10-05 17:41:39.595 20460 20460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.rentacar.ui.main.MainActivity@bd0647d
+10-05 17:41:39.597 20492 20506 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+10-05 17:41:39.597 20492 20506 I EGL_emulation: Opening libGLESv2_emulation.so
+10-05 17:41:39.601 20492 20506 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-05 17:41:39.601  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:41:39.601 20492 20506 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-05 17:41:39.602   513   513 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:41:39.635   668   690 I ActivityTaskManager: Displayed com.example.rentacar.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +42ms
+10-05 17:41:39.635   476   530 I RanchuHwc: logCompositionFallbackIfChanged: layer 995 CompositionType fallback from 3 to 1
+10-05 17:41:39.636  1367  1381 W System  : A resource failed to call release.
+10-05 17:41:39.636  1367  1381 W System  : A resource failed to call release.
+10-05 17:41:39.636  1367  1381 W System  : A resource failed to call release.
+10-05 17:41:39.637   668   694 I ImeTracker: system_server:4111a18b: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-05 17:41:39.641  1367  1367 D StatsLog: LAUNCHER_ONRESUME
+10-05 17:41:39.643  1367  1400 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=
+10-05 17:41:39.645  1768  2147 I AssistantForeground: (REDACTED) Get launcher package: %s
+10-05 17:41:39.646  1738  1847 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-05 17:41:39.646  1738  1847 I AiAiEcho: EchoTargets:
+10-05 17:41:39.646  1738  1847 I AiAiEcho: Filtered by AiAi flag check:
+10-05 17:41:39.646  1738  1847 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-05 17:41:39.646  1738  1847 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-05 17:41:39.646  1738  1847 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-05 17:41:39.652  1367  1367 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-05 17:41:39.653  1367  1367 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-05 17:41:39.655 20460 20460 I ImeTracker: system_server:4111a18b: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-05 17:41:39.656  1367  1367 D BaseDepthController: setSurface:
+10-05 17:41:39.656  1367  1367 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-05 17:41:39.656  1367  1367 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x51505e8
+10-05 17:41:39.666  1367  1367 I NotificationListener: Handling notification state refresh for android#0
+10-05 17:41:39.666  1367  1367 D SsBaseTemplateCard: No text view can be set up
+10-05 17:41:39.666  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:41:39.666  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:41:39.666  1367  1367 D SsBaseTemplateCard: Passed-in item info is null
+10-05 17:41:39.666  1367  1367 I SsBaseTemplateCard: Secondary card pane is null
+10-05 17:41:39.666   513   606 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-05 17:41:39.678 20460 20460 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-05 17:41:39.681  1367  1367 D b/311077782: LauncherAnimationRunner.setAnimation
+10-05 17:41:39.688   668  1883 I ImeTracker: system_server:6765f289: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-05 17:41:39.689   668   795 I ImeTracker: com.google.android.apps.nexuslauncher:46975720: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-05 17:41:39.689  1367  1367 D InsetsController: hide(ime(), fromIme=false)
+10-05 17:41:39.690  1367  1367 I ImeTracker: com.google.android.apps.nexuslauncher:46975720: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-05 17:41:39.690 20460 20460 I ImeTracker: system_server:6765f289: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-05 17:41:39.691  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+10-05 17:41:39.691   668  2121 I ImeTracker: system_server:5e98aa3b: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-05 17:41:39.691  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-05 17:41:39.691   668   693 I ImeTracker: system_server:5e98aa3b: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-05 17:41:39.692  7643  7643 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-05 17:41:39.692  7643  7643 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-05 17:41:39.692 20460 20460 I AutofillManager: onInvisibleForAutofill(): expiringResponse
+10-05 17:41:39.692  7643  7643 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():243 startImportContentTask()
+10-05 17:41:39.693 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: STOPPED
+10-05 17:41:39.693 20460 20460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.rentacar.ui.main.MainActivity@bd0647d
+10-05 17:41:39.693  7643  7883 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():258 doInBackground()
+10-05 17:41:39.693  7643  7883 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():114 LanguageTags = [en-US]
+10-05 17:41:39.693 20460 20460 D LifecycleMonitor: Lifecycle status change: com.example.rentacar.ui.main.MainActivity@bd0647d in: DESTROYED
+10-05 17:41:39.693 20460 20460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-05 17:41:39.693 20460 20460 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@58c24c8
+10-05 17:41:39.693  7643  7941 I SpellCheckerSession: SpellCheckerSession.onClose():690 com.google.android.keyboard.client.delight5.LanguageIdentifier@ac214a5 is closed
+10-05 17:41:39.693 20460 20475 I TestRunner: finished: testSearchFunctionality(com.example.rentacar.MainActivityTest)

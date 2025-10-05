@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.rentacar.MainActivityTest" tests="5" failures="0" errors="0" skipped="0" time="7.251" timestamp="2025-10-05T06:23:53" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_9_Pro_XL(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testBalanceChipDisplaysInitialBalance" classname="com.example.rentacar.MainActivityTest" time="0.979" />
+  <testcase name="testSearchFunctionality" classname="com.example.rentacar.MainActivityTest" time="1.438" />
+  <testcase name="testNextButtonNavigation" classname="com.example.rentacar.MainActivityTest" time="1.266" />
+  <testcase name="testRentButtonOpensDetailActivity" classname="com.example.rentacar.MainActivityTest" time="1.454" />
+  <testcase name="testFavoriteButtonToggle" classname="com.example.rentacar.MainActivityTest" time="1.246" />
+</testsuite>

@@ -1,0 +1,6 @@
+com.example.rentacar.test.app-annotation-experimental-1.3.0-0 /Users/stephentsang/.gradle/caches/8.13/transforms/41f28a5516e2b64d915e7168ae036f4a/transformed/annotation-experimental-1.3.0/res
+com.example.rentacar.test.app-core-1.5.0-1 /Users/stephentsang/.gradle/caches/8.13/transforms/4cf0f228d0f7dfc430d959e90736fa5d/transformed/core-1.5.0/res
+com.example.rentacar.test.app-androidTest-2 /Users/stephentsang/Documents/GitHub/assignment02-stevoCS/app/build/generated/res/resValues/androidTest/debug
+com.example.rentacar.test.app-mergeDebugAndroidTestResources-3 /Users/stephentsang/Documents/GitHub/assignment02-stevoCS/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.rentacar.test.app-mergeDebugAndroidTestResources-4 /Users/stephentsang/Documents/GitHub/assignment02-stevoCS/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.rentacar.test.app-debugAndroidTest-5 /Users/stephentsang/Documents/GitHub/assignment02-stevoCS/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

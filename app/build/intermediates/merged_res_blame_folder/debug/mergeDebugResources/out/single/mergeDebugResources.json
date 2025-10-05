@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/layout_item_favorite.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/item_favorite.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_ic_star_filled.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/ic_star_filled.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_launcher.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/launcher.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_ic_sort.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_porsche_911.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/porsche_911.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_mercedes_benz_s_500.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/mercedes_benz_s_500.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/layout_activity_detail.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_ic_star_border.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/ic_star_border.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_tesla_model_3.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/tesla_model_3.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_bmw_i7.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/bmw_i7.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_tesla_model_y.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/tesla_model_y.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_arrows_button_left.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/arrows_button_left.png"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_ic_search.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_bmw_x1.png.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/bmw_x1.png"
+    },
+    {
+        "merged": "com.example.rentacar.app-debug-37:/layout_activity_detail.xml.flat",
+        "source": "com.example.rentacar.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.rentacar.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.example.rentacar.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-debug-37:/drawable_ic_back_arrow.xml.flat",
+        "source": "/Users/stephentsang/.gradle/daemon/8.13/com.example.rentacar.app-main-39:/drawable/ic_back_arrow.xml"
+    }
+]
